@@ -1,5 +1,5 @@
 # test-pr-desc
 
-Setup guide enviroment
+Setup guide environment
 
 enviroment is our life
