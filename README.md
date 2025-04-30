@@ -2,4 +2,4 @@
 
 Setup guide environment
 
-enviroment is our life
+environment is our life
